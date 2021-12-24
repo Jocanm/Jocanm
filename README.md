@@ -22,7 +22,7 @@
 ## Frontend Web-Developer
 
 </div>
-
+<!-- 
 <div align="center">
     <a href="https://www.linkedin.com/in/jose-luis-angarita-mendoza-40709a1b1/">
     <img src="./img/LinkedIn.png">
@@ -31,7 +31,7 @@
     <!-- <a href="https://rajcutinha.netlify.app/">
     <img src="./img/Portfolio.png">
     </a> -->
-</div>
+</div> -->
 
 ## Tecnologies:
 
