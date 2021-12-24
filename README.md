@@ -13,16 +13,16 @@
 <br/>
 
 
-<div align="center">
+<!-- <div align="center">
     <img style="border-radius:999px" src="./img/profile.png" alt="perfil"/>
-</div>
+</div> -->
 
 <div align="center">
 
 ## Frontend Web-Developer
 
 </div>
-<!-- 
+
 <div align="center">
     <a href="https://www.linkedin.com/in/jose-luis-angarita-mendoza-40709a1b1/">
     <img src="./img/LinkedIn.png">
@@ -31,7 +31,7 @@
     <!-- <a href="https://rajcutinha.netlify.app/">
     <img src="./img/Portfolio.png">
     </a> -->
-</div> -->
+</div>
 
 ## Tecnologies:
 
