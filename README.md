@@ -38,6 +38,7 @@
 - Html, CSS, JavaScript - TypeScript
 - Tailwind CSS
 - React.js
+- Graphql
 - Express
 - Mongodb
 - Redux
