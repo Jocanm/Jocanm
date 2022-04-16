@@ -35,14 +35,15 @@
 
 ## Tecnologies:
 
-- Html, CSS, JavaScript
+- Html, CSS, JavaScript - TypeScript
 - Tailwind CSS
 - React.js
 - Express
 - Mongodb
+- Redux
 
 ## Learning:
 
-- Java
-- Python
 - Next.js
+- Docker
+- Flutter
