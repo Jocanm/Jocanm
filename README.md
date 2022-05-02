@@ -37,14 +37,10 @@
 
 - Html, CSS, JavaScript - TypeScript
 - Tailwind CSS
-- React.js
+- React
 - Graphql
 - Express
 - Mongodb
 - Redux
-
-## Learning:
-
 - Next.js
 - Docker
-- Flutter
