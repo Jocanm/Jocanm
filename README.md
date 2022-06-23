@@ -36,7 +36,7 @@
 ## Tecnologies:
 
 - Html, CSS, JavaScript - TypeScript
-- Tailwind CSS
+- Tailwind CSS - Styled Components
 - React
 - Graphql
 - Express
